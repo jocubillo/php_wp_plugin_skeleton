@@ -1,0 +1,1 @@
+#Plugin Skeleton for Wordpress
